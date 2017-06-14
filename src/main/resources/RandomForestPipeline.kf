@@ -1,0 +1,88 @@
+{
+	"flow_name" : "RandomForestPipeline",
+	"steps" : [
+		{
+			"class" : "weka.knowledgeflow.steps.Loader",
+			"properties" : {
+				"loader" : {
+					"type" : "loader",
+					"class" : "weka.core.converters.ArffLoader",
+					"filePath" : "/Users/paolo/Documents/Newcastle/CURRENT/Dengue Brasil project 2015-16/PHASE-III/BitBucket-checkout/data/tweets.arff",
+					"useRelativePath" : false
+				},
+				"name" : "ArffLoader"
+			},
+			"connections" : {
+				"dataSet" : [
+					"StringToWordVector"
+				]
+			},
+			"coordinates" : "88,163"
+		},
+		{
+			"class" : "weka.knowledgeflow.steps.Filter",
+			"properties" : {
+				"filter" : {
+					"type" : "optionHandler",
+					"class" : "weka.filters.unsupervised.attribute.StringToWordVector",
+					"options" : "-R first-last -W 1000 -prune-rate -1.0 -N 0 -stemmer weka.core.stemmers.NullStemmer -stopwords-handler weka.core.stopwords.Null -M 1 -tokenizer \"weka.core.tokenizers.WordTokenizer -delimiters \\\" \\@@-@@r\\@@-@@n\\@@-@@t.,;:\\\\\\'\\\\\\\"()?!\\\"\""
+				},
+				"name" : "StringToWordVector"
+			},
+			"connections" : {
+				"dataSet" : [
+					"AttributeSelection"
+				]
+			},
+			"coordinates" : "275,164"
+		},
+		{
+			"class" : "weka.knowledgeflow.steps.Filter",
+			"properties" : {
+				"filter" : {
+					"type" : "optionHandler",
+					"class" : "weka.filters.supervised.attribute.AttributeSelection",
+					"options" : "-E \"weka.attributeSelection.CfsSubsetEval -P 1 -E 1\" -S \"weka.attributeSelection.BestFirst -D 1 -N 5\""
+				},
+				"name" : "AttributeSelection"
+			},
+			"connections" : {
+				"dataSet" : [
+					"SMOTE"
+				]
+			},
+			"coordinates" : "423,164"
+		},
+		{
+			"class" : "weka.knowledgeflow.steps.Filter",
+			"properties" : {
+				"filter" : {
+					"type" : "optionHandler",
+					"class" : "weka.filters.supervised.instance.SMOTE",
+					"options" : "-C 0 -K 5 -P 100.0 -S 1"
+				},
+				"name" : "SMOTE"
+			},
+			"connections" : {
+			},
+			"coordinates" : "625,165"
+		},
+		{
+			"class" : "weka.knowledgeflow.steps.Classifier",
+			"properties" : {
+				"classifier" : {
+					"type" : "optionHandler",
+					"class" : "weka.classifiers.trees.RandomForest",
+					"options" : "-P 100 -I 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1"
+				},
+				"loadClassifierFileName" : "",
+				"name" : "RandomForest",
+				"resetIncrementalClassifier" : false,
+				"updateIncrementalClassifier" : true
+			},
+			"connections" : {
+			},
+			"coordinates" : "755,166"
+		}
+	]
+}

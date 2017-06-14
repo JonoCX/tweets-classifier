@@ -1,0 +1,145 @@
+@RELATION tweets
+
+@ATTRIBUTE tweet string
+@ATTRIBUTE class {news,noise,provider,receiver}
+
+
+@DATA
+'retweet ir zika pego bom prevenir :joy: :joy: url',noise
+'retweet gringo achando grande problema brasil zika viru violência ir descobrir verdade chegar aqui htt',noise
+'god bye sóq clan parado doq agua mosquito dengue',noise
+'retweet plano saúde obrigado cobrir exame diagnosticar vírus zika grupo considerado prioritário url',news
+'risco infecção zika olimpíada praticamente zero dizer ministro url tribunadonorte',news
+'sintoma zika vírus surgem numeral dia após picada mosquito começar febre acimo numeral ºc mancha url',news
+'onde sair zika viru afeto homem grávida',noise
+'retweet facil levar bala perdida olimpíada pegar zika',news
+'retweet exame detecção vírus zika cobertura obrigatória planosdesaúde url url',news
+'cada dia falar coisa família inteira pegar dengue menos porque tomo banho repelente',receiver
+'risco zika olimpíada quase inexistente dizer michel temer g numeral url falar infectologista interino traira temer',news
+'retweet pokemongo ainda pro brasil gente receber primeiro nesse mundo desgraça tipo zika vírus pmdb',noise
+'verdade mito dica dia ir tirar dúvida sobre zika vírus criança url',news
+'avião combate dengue url',news
+'sintoma dengue',receiver
+'político g numeral risco zika olimpíada quase inexistente dizer michel temer url',news
+'risco infecção vírus zika praticamente zero dizer ministro url url',news
+'retweet om numeral país circulação vírus zika url saúde',news
+'risco zika olimpíada quase inexistente dizer michel temer url risco zika olimpíada quase inexistente',news
+'dengue chegando forte região sul trabalho controlo vetor precisa intensificado url',news
+'retweet segundo registrado numeral numeral caso provável doença relação vírus zika confirmado numeral numeral caso',news
+'vírus zika transmitido mosquitoarquivo agência brasil l secretário estadual saúde paulo url',news
+'dimaro oliveira entrevistar dr lilian morillo sobre dengue idoso criança ouça coluna espaço saúde url',news
+'vai pessoalmente matar mosquito vírus cada absurdo leio url',noise
+'mano primo zika funny chá bebê filho tá descrição assim trazer fralda vodka mano funny',noise
+'sidney magal vestido mosquito dengue videoshowaovivo',noise
+'butantan cria grupo ação rápida doença emergente dengue zika chikungunya url',news
+'vacina contra vírus zika testado sucesso camundongo url',news
+'ação rígido estabelecido combate dengue https t co u numeral hgh numeral d numeral q url',news
+'manda chuva veneno povo jura matar povo matar mosquito dengue url',noise
+'retweet relação vírus bovino zika microcefalia frágil dizer pesquisador url',news
+'risco zika olimpíada quase inexistente dizer michel temer carta presidente exercício publ url',news
+'menos fico legado piscina ciep vário mosquito dengue preparando pra olympic',provider
+'américo blinda contra el zika evitar lo microcefalia url',news
+'zika viru url',noise
+'retweet liga planeta vacina contra zika testado sucesso camund url url',news
+'retweet noil eh vírus noil eh zika',noise
+'retweet vacina zika pronto iniciar teste clínico novembro su m',news
+'muriçoca dengue pé mata',provider
+'zika vírus casal gêmeo nasce microcefalia outro url cnn',news
+'gostar vídeo url animatoom numeral zika vírus',noise
+'câmara aprovo mp destino r numeral milhão combate zika vírus microcefalia url mshoje',news
+'saúde om numeral país circulação vírus zika url url',news
+'ebcnarede partir hoje plano saúde ir cobrir exame detecção vírus zika url',news
+'retweet defendendo aprovação numeral milhão combate zika absurdo fazer embate político tema url',news
+'retweet galo critico liberação pulverização agente químico combater dengue zika coordenador frente url',news
+'dever pego zika viru aqui bastante',receiver
+'retweet tranquilizante probabilidade turista pegar dengue olimpíada menos numeral numeral mil dizer ministro url',news
+'retweet copa mundo torcida mexicano dar espetaculo onde ir lá falar violência zika viru risco atent',noise
+'boato vir causa zika',receiver
+'plano saúde passar cobrir teste vírus zika numeral numeral numeral numeral leu url',news
+'retweet garoto tão engravidando ar água né possível epidemia igual zika',noise
+'retweet numeral bebês dano neurológico zika perímetro cefálico normal pesquisa desenvolvido c url',news
+'tio dor corpo layra mosquito dengue pico ah claro tio mosquito dengue pico sim',noise
+'eua ir financiar pesquisa sobre vírus zika equipe olímpico url url',news
+'retweet junte luta contra zika dengue numeral proteja casa sbp numeral use repelex sair numeral elimine água parada numeral',news
+'retweet numeral mosquito aqui acho ja picada todo ja peguei z numeral k numeral chico cunha dengue agora',news
+'retweet comissão assunto social ministro saúde ricardo barro garante incidência zika durante olimpí',news
+'retweet hojeéodiadobeijoeeu fico pensando zika vírus tá ae impedindo',noise
+'preciso voltar treinar vejo foto antigo pouco tempo treino corpo tão diferente pqp dengue matou',receiver
+'retweet plano saúde cobrir obrigatoriamente três exame detecção vírus zika url url',news
+'preocupa tenga zika preocupa podré beber',noise
+'funny aqui casa precisando espantar mosquito dengue',noise
+'abrir janela entra mosquito pernilongo abelha boi boiada zika onça jacaré dinossauro elefante girafa hiena tudo menos vento',noise
+'retweet chegar questão numeral tá lendo vaga lume matou tigre dengue causa café pap',noise
+'prefeitura caralho né vir aqui falar mosquito dengue sair daqui chikungunya',provider
+'teste diagnosticar zika vírus passar cobertura obrigatória plano saúde despertatransamérico',news
+'conheço ngm todo mundo conhece sabe zika vírus',receiver
+'retweet aid cancro duro varíola novo vacina contra zika permite escolha efeito colateral url',news
+'retweet ciência tecnologia do resposta p doença zika dizer url sbpc numeral zikazero url',news
+'aparentemente show rihanno cancelado conta zika vírus palmeu x sp confirmar allianz park',news
+'amigo zika vírus ruim tira possibilidade filho',provider
+'gringo tirando sarro zika vírus brincadeira nojo',noise
+'vacilação ta matando zika viru slk',noise
+'partir hoje plano saúde cobrir três teste detectar zika vírus url url',news
+'retweet recife primeiro morte dengue url url',news
+'gato eh bom passar repelente agr porque hoje zika',noise
+'medo zika jogador irlandês golfe desiste olimpíada url',news
+'retweet gente espalha zika vírus larriesdeserverespect url',noise
+'acho acabei matar mosquito dengue',provider
+'retweet zika viru transmitido beijo ir beija mosquito irmao',noise
+'golfista australiano leishman desiste olimpíada rio citar medo zika url',news
+'jason day desiste olimpíada rio numeral medo zika numeral numeral numeral url',news
+'floraí entra epidemia dengue url',news
+'partir desta semana plano saúde obrigado pagar exame zika vírus porto url',news
+'homem zika baile funny',noise
+'pernilongo filho puta mete zika cu morrer some minah vida',provider
+'tem algum gajo novo algum novo caso zika funny quero ficar só pi url',noise
+'vírus zika ser tratado emergência saúde público exame pcr',news
+'ciência saúde dois caso dengue registrado catanduva junho regional online url',news
+'passei noite hospital fiz monte exame descobri dengue',receiver
+'lança hj lança amanhã anti diary saber lo vir hj amanhã vir zika vírus saber',noise
+'porco suíno zika vírus',noise
+'japonês oitavo golfista desiste rio numeral medo vírus zika olimpiado rio url',news
+'retweet min saúde numeral serra manda demitir numeral numeral técnico combate dengue rj epidemia alastra estado htt',news
+'retweet médico falar sobre zika vírus síndrome guillain barré url',news
+'numeral numeral mil caso notificado zika vírus acre apenas numeral confirmado url',news
+'retweet compartilhando cobertura obrigatória exame detecção vírus zika url teste h',news
+'cidade americano atrair morcego combater mosquito zika url',news
+'bruno soar critico atleta desistir jogo causa zika desculpa ruim url',news
+'parsa zika funny mano causa',noise
+'adrenalina abalo sistema nervoso tentar contra mim ir retorno porque bondi zika bota bagulho doidoo',noise
+'mina zika lava pirico',noise
+'mosquito dengue foco',noise
+'zika vírus pregação chocante evangelico completo apocalipse novo ordem url',news
+'antibiótico impede infecção zika ainda sabe certo url',news
+'zika viru miga url',noise
+'retweet brasil fronteira conhecimento sobre vírus zika url sbpc numeral zikazero url',news
+'retweet professor put concern about zika viru into perspective url lab numeral life',noise
+'mandando beijo galera net ligar twitter url',noise
+'cobertura obrigatória plano saúde exame detecção vírus zika partir hoje numeral url',news
+'sepa pc pegar zika vírus tanto ouvir eletro funk fei',noise
+'plano saúde fazer cobertura três exame detecção vírus zika partir desta url',news
+'goiá ir usar avião dispersão inseticido combate dengue url',news
+'primeiro vem ai dp cancela tudo causa zika virus ai tombo rumor novamente show brasil mano',noise
+'vírus bovino achado feto microcefali url url',news
+'retweet financiando pesquisa sobre zika ampliar conhecimento sobre doença su m',news
+'retweet zika r numeral milhão combate zika vírus primeiro proposta pl numeral numeral cria url',news
+'retweet boi liberar pesquisa dizer frágil relação vírus bovino zika microcefalia',news
+'francês sanofi junta exército eua desenvolver vacina contra zika url url',news
+'plano saúde obrigado pagar exame vírus zika url url url',news
+'cobertura obrigatória exame detecção vírus zika três exame detecção vírus zika passar url',news
+'caso chikungunya crescer numeral numeral relação numeral maceió url',news
+'retweet zika plano saúde dever arcar exame identificar vírus url url',news
+'plano saúde unimed prontomed saúde vida hsjd pagar exame zika viru divinopolil saude url',news
+'retweet câmara aprovo medida provisória garante r numeral milhão combate zika vírus url url',news
+'crise zika ameaçar olimpíada brasil the new york time company url',news
+'gif tira casaco poe casaco rihanno vir br rihanno cancela causa zika viru rihanno confirma ver br rihanno cance',noise
+'frase hoje devia inventar repelente gente falso do zika ficadica',noise
+'tô pegando gripe tão gostozamente acho engravidar gêmeo zika vírus',noise
+'viro mosquito porque acho zika funny badunt',noise
+'look básico contra zika viru url',noise
+'thanksforcomeback numeral h calma gente amam verdade proteger zika vírus proteger rainha brasil',noise
+'retweet único preparar pra olimpíada mosquito dengue',noise
+'zika epidemia desigualdade água pontal url',news
+'água pontal zika epidemia desigualdade url',news
+'retweet serenidade olhar nao vir pro brasil medo zika viru url',noise
+'semana passar governar aprovar pulverização veneno contra mosquito dengue url dengue veneno',news

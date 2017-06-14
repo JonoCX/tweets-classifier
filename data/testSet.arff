@@ -1,0 +1,338 @@
+@RELATION tweets
+
+@ATTRIBUTE tweet string
+@ATTRIBUTE class {news,noise,relevant}
+
+@DATA
+'consumindo veneno mosquito dengue',noise
+'dor corpo dor olho febre cansaço pesquisar google dengue',relevant
+'passar trem fedorento perna mano funny porque vizinho picada dengue aí bom evitar ne votebiel kca',relevant
+'cuidado dengue menino ir medico',relevant
+'barbie assiste oitnb amo sexo lesbico ja sabia url',noise
+'poder espantar mosquito dengue',relevant
+'ir mandar caça zika viru caçarem tpm livrar',noise
+'inglaterra sair ue ai deus amigo tá metrô preocupa dengue',noise
+'retweet mosquito dengue dar digimon evoluindo',noise
+'mosquito dengue',noise
+'obrigado acabei chegar suspeito zika tomei bunda literalmente injeção dorei né',relevant
+'talvez coma uranio morra mosquito pica dengue morra',noise
+'mosquito dengue agora capaz causar morte animal doméstico pensando ir dominar mundo',noise
+'sério mosquito dengue pica pessoa roupa preto fodido kjk',noise
+'quero ir virada cultural paulista pego zika vírus',relevant
+'tio bar tavo máscara hoje tá zika vírus',relevant
+'funny parar infectar zika vírus fla scrr',relevant
+'agora tô medo estar zika vírus',relevant
+'veja teste rápido dengue porque exame sangue ir dizer poder ai vir teste rapido',relevant
+'avô vida loka joga demônio chamar criolino casa inteira espantar mosquito dengue pense cheiro',relevant
+'retweet igual mosquito dengue',noise
+'amigo mosquito tão magro pensar zika',noise
+'desistência jogador basquete usa causa zika desculpem muito mancado ver',noise
+'verdade rapeize pessoa grávida pegar zika ir máximo febre baixa dengue mau',relevant
+'engraçar zika moda momento vi ninguém desistir ver causa dengue endêmico',noise
+'homem quer brincar deus mudar genética porra mosquito dengue tá aí caso triplicar',noise
+'retweet merda zika deixa corpo todo inchado parecendo balão',relevant
+'ir formatar cara ta cheio zika vírus',noise
+'ir universidade sentindo aedesaegypti funny url',noise
+'porque numeral pessoa adicionarp lista sera qu so zika viru',noise
+'ontem mosquito dengue mordeu percebi começar rir desespero funny',relevant
+'dever fico bostejando internet sair zika vírus',noise
+'trollagem surpresa colega faltar aula porque tá suspeito dengue url',relevant
+'mina zika lava pirico lava',noise
+'redação grande mobilização contra mosquito dengue acontecer phb url',news
+'tô sono cheio mosquito picano pegano zika solitário trem acaba pique',relevant
+'fofa tá mau zika vírus tá tudo mundo pegando',noise
+'todo mundo espirra lado grito sair zika vírus perder mania funny',noise
+'funny sabe sim mano zika viru',noise
+'qualquer muriçoca ja sair zika viru',noise
+'tento matar mosquito dengue camiseta url',noise
+'mosquito aqui quarto md imagino zika viru amanhã apareço óculo espelhar cantando baile d favela',relevant
+'horiny irma ta zika viru',relevant
+'retweet exército ajuda combate mosquito dengue url',news
+'acabar passa repelente mim porque dizer posso pegar zika',noise
+'funny ja ja zika viru',noise
+'bom pobre policia federal lá casa máximo encontra um foco mosquito dengue',noise
+'agora dr noriega universidade internacional florido ir falar sobre síntese hormônio juvenil mosquito dengue ice numeral',noise
+'vó ta cama fazer semana causa desse mosquito chikungunya maldito',relevant
+'exato dizer equipe desaconselhar ver américo sul causa zika irmão zika tbm',relevant
+'adicionei vídeo playlist url contra mosquito dengue',noise
+'simplesmente cheio bola pescoço parecendo dengue causa desse calor cuzao ainda bem existe ar condicionar',relevant
+'votação fandom animavo imagino mosquito dengue',noise
+'hj aniversário tio aq cheio d dor pr causa dengue',relevant
+'todo crise zika pessoa aproveitando lucrar vender bastante repelente',noise
+'parem fazer exame dengue cada vez vejo prontuário pedido vontade gritar',noise
+'ir cu mosquito irmao url',noise
+'pegar zika vírus durmo janela abrir',noise
+'suspeito dengue trank',relevant
+'zika vírus cortina',relevant
+'numeral ir bom zika viru impeachment limite internet fixa estado islamico dolar quase numeral real gripe h numeral n numeral acho tá bom',noise
+'além divertir migo fico tranquila pois corri risco pegar zika vírus',noise
+'zoa suspeito dengue',relevant
+'gente ngm ta preocupar zika vírus funny',noise
+'mosquito zika picou',relevant
+'fujão tavo suspeito dengue moço',relevant
+'retweet porra acho zika doença dessa qualquer fudeu',relevant
+'caralho ficar zika ruim dói corpo todo mano vtmnc',relevant
+'gosto mosquito dengue querido mayaro podre funny',noise
+'febre passaram ainda bem suspeito chikungunya passar',relevant
+'amanhã ir médico ver porque tá td mundo falar c dengue',relevant
+'retweet semelhança dengue aid gente nunca sabe picada ir matar',noise
+'ainda zika viru haver c novo ordem mundial',noise
+'biologiatotal legal porque vejo vídeo aula inteligência aumentar igual vírus zika reproduz neurônio',noise
+'foco doença url',noise
+'tá cheio conhecer perder emprego agora tá catando lata galera bom pegar zika vírus falar ai',relevant
+'pague numeral real exame sangue pai ver tá zika morra esperar',relevant
+'li todo matéria entender numeral semana camisa proteger zika entendo porque educar desde criança usar sempre',noise
+'calma matar mosquito dengue matar gente chuva veneno avião 🛩 dar eng',noise
+'vejo mosquito ja penso dengue veranomtv numeral justin bieber',noise
+'ficar numeral h estouro veia descobre tá dengue ir faculdade',relevant
+'sonho mosquito dengue invadisse esplanada brasilia picasse todo congresso possível dilma',noise
+'oche parece mirião picada zika viru funny osdezmandamento',noise
+'falar medico doutor acho dengue ta dengosa entao funny',relevant
+'cuidado pessoal mosquito denque transimite chikungunya za vigu',noise
+'momento c sintoma zika vírus',relevant
+'parabém leonardo gonçalve numeral numeral ano faculdade perguntar pessoa suspeito dengue dor corpo ruim',relevant
+'sinusite asmo umidade baixa zika chycugunha acho escreve assim ryca vírus',relevant
+'digo aguentar áudio zika pego beijando ir querer beijar mosquito vez favor',noise
+'eito dar tempo hope sollo ver mosquito c zika eua eliminar suécia futebol feminino',noise
+'ta todo mundo brigando causa demi zika viru tipo url',noise
+'tnc pc pai viru mosquito dengue',noise
+'capaz pegar zika vírus ainda cara amo leonardo funny',noise
+'retweet mosquito dengue poder matar poder nascer https t co ouopecti numeral',noise
+'tipo mosquito dengue tbm',noise
+'porque demi lovato fazer merda ir desejar pegue zika dizer desejo doença ninguém',noise
+'saber cê tá raiva ver tarde médico dizer dengue dp fiz exame novo dar normal',relevant
+'dengue graça deus homem obga ficar lo',relevant
+'miga zika bicho causa goleiro luluza pegar guarani sair forma legal',noise
+'pensa zika vírus quarto',relevant
+'fiquei bem durante dia agora tô ficar meio ruim novo sair mim zika vírus',relevant
+'lembro filho puta ex prefeita daqui natal queria usar hoemopatia combater mosquito dengue nesse nível',noise
+'mosquito dengue zika noil vida lok numeral tbtnomtvhit',noise
+'fêmea picar macho pego dengue',noise
+'deus aguento zika vírus',relevant
+'vi mosquito braço cismei eh dengue',relevant
+'ô doença mzrv tal chikungunya aguento',relevant
+'zika vírus saber ir pegar zika certeza',noise
+'acreditar intervenção militar quebrar cara soldado rua emborcando lata combater mosquito dengue',noise
+'cm suspeito dengue mofo',relevant
+'realmente entendo porque achar ir pegar zika br doença veio lo aqui ouvi falar',noise
+'saiba manter mosquito dengue longe url',news
+'retweet msm dizer torcia homem pegar zika antes idade fértil sexo p amador gravidez pr',noise
+'ficar mexendo droga pesada dar aplicar mosquito veia agora tô loko dengue',noise
+'dever estar vírus porque zika ah amigo peça raro',noise
+'acabei matar mosquito toma zika viru porra',relevant
+'sobre oq falo zika virus mano real ninguém sabe oq ta acontecendo nesse país aliás mundo',noise
+'falar lesão dar zika porra funny algum defeito jogo',noise
+'cuidado menino dengue ir médico',relevant
+'tranquilo favorável guerra amigo velho mosquito danar causa zika ir virar jogo',noise
+'dor corpo febre pqp so poder dengue ajskssosbskm',relevant
+'guiano ver c zika viru ser manda nela europa',noise
+'falar viru zika tipo amigo amoroso',noise
+'retweet entendo uq ta acontecendo famoso zika vírus agindo nele',noise
+'retweet porque antes olimpíada postar ig foto todo preparado roupa anti zika',noise
+'sim eh transmitido mosquito dengue junto c zika',noise
+'dizer dr falar ontem decisão individual d cada homem criar url',noise
+'matéria preferido mosquito dengue fizika funny',noise
+'sala hidratação começa atender paciente suspeito dengue url',news
+'moleza corpo poder dengue',relevant
+'meia sumido aqui porque suspeito dengue logo logo volto',relevant
+'demi mae zoou olimpiado brasil falar todo mundo ver ca ir pegar zika',noise
+'acompanhando longe debate sobre aborto homem zika prefiro conversar amigo pessoalmente internet dar',noise
+'peguei zika vírus emagreci numeral kg',relevant
+'gente tavo olhando aqui mosquito dengue dinheiro ir comprar gás juno url',relevant
+'porra zika vírus foda 󾌹󾌻',relevant
+'doido baygon mata mosquito dengue',noise
+'pernilongo demônio causavo caroço coceira url',noise
+'nunca desenhei tanto mosquito dengue quanto hj trabalho',noise
+'feliz fini recuperar zika viru',relevant
+'retweet foco mosquito dengue encontrado enfeite natal árvore guirlanda abandonado url',news
+'todo mundo contrai dengue outro mesmo conversa sempre procurei cuidar quintal nunca permití foco',noise
+'darly zika vírus mano foda acha negar',noise
+'todo mosquito vejo falo zika',noise
+'prova diria p mamãe mosquito dengue chico cunha',noise
+'dó mosquito url',noise
+'funny garoto zika vírus jogada',noise
+'tal mal gripe né porque colocar nariz porque ta fodido nível zika vírus funny',noise
+'fiz parte zikazero dengue',noise
+'todo vez vejo mosquito falo eh zika vírus horror funny',noise
+'minin falar uma coisa dessa porque continuo nao sentindo mosquito hj um picando ainda dengue chicu',relevant
+'grávida zika criança nascer microcefalia',noise
+'so mina zika lava periquito',noise
+'ja fazer dois me zika viru tomo remedio nao passa dor cao',relevant
+'piscina cheio larva mosquito ainda capaz pegar vária dengue zika',relevant
+'picada zika vírus',relevant
+'motivo combatermo mosquito transmissor autismo zikaviru dengue url',news
+'pegar zika ta microcefalia falar m assim',noise
+'hoje tá ter febre tá ter dor corpo todo tô parecendo lesar dengue juro valendo url',relevant
+'alan fazer exame sangue tomaro cão zika',relevant
+'grande culpar mosquito dengue população',noise
+'adaptasse doenca coisa agr tipo zika viru etc',noise
+'zika heim hope tá vendo aqui brasil assim rir último ri bom',noise
+'retweet parece único tá trabalhar nesse país mosquito dengue',noise
+'eitaa phoda matei pernilongo zika primeiro funny',noise
+'zika ir medico',relevant
+'saber tô aguentando ficar faculdade segundo passei dia hora dengue',relevant
+'causa dengue piorar menos fico assistindo coisa ta falta canal vídeo',relevant
+'mudando assunto mosquito picou dengue tavo óculo vi direito bem hora prova numeral',relevant
+'acho nasa mosquito url',noise
+'acho loucura infectologistas inventando brincar deus cruzando aede egypt outro mosquito tentando matar zika',noise
+'retweet todo mosquito pica certeza peguei zika',noise
+'ir parar assistir olimpíada achando causa tanto zika ginásticaartistico rio numeral',noise
+'gente ir encomendar dessa porque tá foda pernilongo ver certeza trazer aliexpres url',noise
+'poder fazer final comercial medicamento contra indicado suspeito dengue bjs',noise
+'retweet zika ir medico amor bjo',relevant
+'zaquel tá salvando todo foto face antigo zika vírus',noise
+'retweet olá recebendo notificação contribuir dengue evite tl parada conscientizar',noise
+'quero ouvir falar vírus zika semana dessa prova',noise
+'ih lembrar falei tavo dor corpo ta dengue',relevant
+'tavo gravando snap pai brincou zoando zika viru demi riu ai geral ta putin',noise
+'creio nenhum sintoma dengue zika muito gripe febre nenhum outro valeu',relevant
+'brasil ja zubat mosquito dengue',noise
+'uma mancha vermelha corpo rezando dengue moral voteluansantanaclipetvz',relevant
+'retweet vi mosquito dengue achei tão bonito tão gótico ir criar dar presente pra inimigo',relevant
+'quieto zika vírus entender',noise
+'ir médico amor poder dengue zika doença doido aí',relevant
+'ta mau zika viru sair lo zika',noise
+'doente c zika viru vo morrer',relevant
+'dar picada zika deus afirma aede',noise
+'tirei semana saco cheio antecipadamente obg suspeito dengue',noise
+'celular ta vírus zika poder lavar falar aguenta kto chorando',noise
+'quarto tá cheio aede acho ir pegar dengue maneira',relevant
+'culpa mosquito zika',noise
+'base mão tá inchado doendo causa dessa dengue',relevant
+'sim miga noil afasta dar falta ar catapor zika viru',noise
+'zika viru var fazer',relevant
+'rt numeral amapá numeral paciente suspeito zika vírus dizer cv amostra ser analisado instituto url',news
+'amor eh igual dengue noil levar picada ficar doente',noise
+'digo onde moro mosquito dengue juntar h numeral n numeral sobrevivo',relevant
+'porque ver numeral pessoa vestido dr zika viru ri pouco',noise
+'dengue infecção urina sabe saúde ne',relevant
+'dar mta merda terminei limpar casa agora certeza peguei leptospirose zika viru chico cunha',relevant
+'produtor dizer anitta internado estado grave anitta suspeito zika passa bem url',news
+'ano numeral pessoa sala pegar dengue vizinho dizer ver casa dengue zico vírus mt parecido',relevant
+'parece mosquito dengue funny amo',noise
+'site anagé mosquito dengue preocupa morador url',news
+'criança ver pensa adulto like zika postavo twitter coisa legal hoje posto merda',noise
+'minsal detecta segundo foco mosquito transmite el viru zika url',news
+'juiz zoológico barata escorpião pernilongo mosquito dengue festa pois época falta leão',noise
+'sabadocomduduolliveirasdv mosquito dengue vir quer picar url',noise
+'lubasenpai mosquito dengue t picavo',noise
+'água joelho poder criar larva mosquito zika',noise
+'mosquito dengue foco sóvemclubesdv',noise
+'mariana gros parece mosquito dengue funny cerimoniadeaberturo',noise
+'acabei picada mosquito dengue',relevant
+'falar pegar zika vírus',relevant
+'suspeito dengue mano novo nao',relevant
+'certeza ir ver zika vírus',relevant
+'profissão agora pai médico confundiu zika alergia conta pai bebê microcefalia url new',news
+'médico saber dengue ainda exame sangue normal sintoma dengue febre numeral º',relevant
+'pai tá suspeito url',relevant
+'retweet assisti olimpíada inteira achando gritando zika várzea grito mau ainda url',relevant
+'saber porque dizer sofrer né ta ir ver mosquito dengue lá casa exército brasileiro útil',noise
+'hueahu zika vírus chico cunha funny credo ir mata vc mundo ta junto p acabar vc',noise
+'dor região bexiga dar pesquisar descobri grávida trigêmeo ta infectado zika vírus',relevant
+'tavo suspeito zika aí beleza passar agr uma mancha braço pai ta aí tomaro morra',relevant
+'gente nunca jmo vir cá ir dar ian falar vir causa zika viru cara',noise
+'mano daqui um dia nao poder respirar porque respirar pego viru zika',noise
+'zikazero junto podemo vencer aedesaegypti faça vistoria elimine foco mosquito sttu url',news
+'causa dengue corpo ficar músculo frágil dm ir tortura voltar pro muay thai',relevant
+'cloroplasto porque mosquto dengue aede aegupti vetor tanto doença',noise
+'ja ta acabar bateria not ta zika viru ta loco',noise
+'manter informar bomdiabrasil sport lava jato guerra sirio mosquito dengue etc globo noticia kaduzera bomdia',noise
+'retweet saber limpar próprio bunda dizer combater mosquito dengue url',noise
+'ignorante saber zika vario países hoje vi notícia canadá criação nascer microcefalia relacionado zika',news
+'corpo ta todo manchado sinal bosta dengue ta ir embora deus eh bom',relevant
+'poder dor junta acho zika viru',relevant
+'espero equipe intel pegue zika viru',noise
+'cheio zika viru u u',relevant
+'sair imune surto gripe suino nao zika pegue',noise
+'saber gringo achar graça zika vírus pai infelizmente bebês mau formação cabeça achar graça',noise
+'kpop estranho noil entender nada legal ouvir ouvir ver tl cheio kpop zika vírus',noise
+'ficar aparecendo merda zika viru frente ver onibu vejo ja passar',noise
+'exemplar manifestação anti dengue pneu velho acumulador água incendiá los louvável atitude prevenção',noise
+'aede aegypti transmissão dengue febre chikungunya vírus zika ocorrer picada mosquito aede url',news
+'funny bom suspeito dengue funny tavo precisando ficar doente funny',relevant
+'falar zika hidrocefalia vária outro cefalópatia causado vírus ser esquecido',noise
+'pai mandar ir médico uma numeral x véio morrer medo dengue',relevant
+'acabei saber tio primo tão zika vírus',relevant
+'alguém tá precisando doação mosquito dengue muito aqui casa quiser chamar dm',relevant
+'olá pessoal algum dia molho parece infeliz chikungunya ir embora dor corpo ainda forte',relevant
+'palestra sobre mosquito dengue moço apresentando explicar sobre contaminação dizer fêmea',noise
+'hãm ir falar chikungunya diarreu gripe suíno dengue febre amarela algum coisa',noise
+'guarda municipal ir atender denúncia foco aede aegypti varga url varga dengue aedesaegypti',news
+'acho muita homem adiando sonho pai dever zika vírus ronda todo país zikaviru microcefalia',noise
+'suspeito dengue vo morrer',relevant
+'grande mosquito amigão voto dedo cair mosquito sair funny url',noise
+'boato tavo ser zika vírus',relevant
+'pé ainda ta todo pintado vermelho causa dengue',relevant
+'desejo mal ninguém lula dilma poder pegar zika viru',noise
+'matar vírus zico dengue chikungunha url',noise
+'acreditar gastei numeral numeral conto cachorro tavo vírus gasto centavo comigo mesmo dengue',relevant
+'dor corpo dor cabeça enjoo devo ta c tal zika viru',relevant
+'aí aq branco caralho ficar todo cheio mancha causa porcaria dengue',relevant
+'participe blitz combate mosquito transmissor dengue febre amarela url',news
+'retweet zika né homem vida importa quanta liga quanta ficar pé',noise
+'contradição demais governo prefeito vacina centena pessoa condeno pegar zico dengue',noise
+'ta zika vírus alzheimer funny url',relevant
+'gente mentiom tá parecendo texto galera zika causa dessa vário saber tô respondendo tô falar md',noise
+'suspeito estar dengue decidi tomar uma cerveja bater bola noite passar gênio 🤔',relevant
+'post corpo jovem morto suspeito dengue hemorrágico velado https t co eksq numeral bpcno',news
+'nunca senti tanto dor corpo vida desejo zika ngm pra inimigo desejo piolho',relevant
+'carrefour osasco foco dengue ninguém combate',relevant
+'so nao pensando dor olho sintoma dengue ai lo tomei dorflex nao poder ne acho',relevant
+'c primo médico tá c chikungunya',relevant
+'nunca vi lugar tanto mosquito toa agraciado dengue zico ódio mortal dessa praga',relevant
+'tô corpo todo doendo febre dengue zika chico tô aí tô marcando role agora',relevant
+'então laurel mosquito dengue porque dar uma picada ollie né',noise
+'vovô pegar dengue dar todo senha p caso',relevant
+'amanhã aula zika vírus ficar estressa numeral tempo ir matar',noise
+'irma falar ator vampire dye lá sla vir pro brasil causa dengue',noise
+'zika ese mosquito',noise
+'mae acabar matar mosquito dengue',relevant
+'zika corpo dolorido',relevant
+'ir transmitir zika vírus todo mundo',relevant
+'perdi tempo ir porque médico olhar cara falar ah chikungunya',relevant
+'sabe zika mosquito',noise
+'retweet mentira tomei capuccino tô falar merda aqui ir doutor entomologia médico acabar zika mundo',noise
+'cão chamar zika outro chamar xika agr chamar zikaviru xikanguia demais ne odeiam saber porque',noise
+'gg gamer ir crescer criança problemática acabou descobrir punheta ta ai achando zika',noise
+'situação câmera deputado ta tão feu mosquito dengue quer entrar lá medo contaminar',noise
+'dono imóvel criadouro mosquito dengue multado multa valor variar r numeral url',relevant
+'retweet vi mosquito dengue pousando pqp agora medo',relevant
+'velho truque né pai morrendo febre funny atual talvez zika funny',noise
+'todo mundo desidratado pronto mosquito dengue picar sim nobre deputado mande tonelada sro url',news
+'porra mano mandasse pernilongo zika viru fucking aranha vsf grilo',noise
+'retweet miga gente fazer twitter reclamar ta achando ruim ir pro facebook zika viru grammys numeral',noise
+'do c dengue tado bebê',relevant
+'numeral h numeral tavo posto consultando suspeito',relevant
+'posso combatendo dengue funny',noise
+'picado mosquito sair zika',relevant
+'causa café md tomaro câncer dengue tumor causa café',noise
+'joaquim ta c suspeito zika viru',relevant
+'pessoa falar tá febre acho dengue',noise
+'querido diário hoje matei mosquito dengue aede aegypti',relevant
+'irmão picada mosquito transmite dengue',relevant
+'ainda consegue mau acho vida tá causando surto zika',noise
+'zika vírus acha ir derrubar mt enganado',relevant
+'esperar exame sair acho c dengue dnv',relevant
+'ian cancelar va causa zika vírus méxico nikki amigo ser lá zika ian ta parabém',noise
+'retweet plataforma servir registrar denúncia possível foco mosquito vetor doença dengue zika url',news
+'trabalho dentro ninho mosquito dengue',relevant
+'gurizindo tá suspeito zika vírus sentar bem lado tão bonito cabelo bem crespo',relevant
+'retweet achei relação zika microcefalia clara parece ainda acho td querer esclareci',noise
+'mosquito dengue closeiro',noise
+'primeiro dia aula matei mosquito dengue',relevant
+'saber demi falar todo mundo rio ir pegar zika vírus publicar zombou erro demilovatoisoverparty',noise
+'gravou homem falar todo mundo brasil ir pegar zika viro',noise
+'maa exagerar ver qr levar médico porque acha c dengue',relevant
+'pernilongo dengue dar picada wesley',noise
+'desculpa ir faculdade tô zika viru',relevant
+'falar zika veio causa zico 🤗',noise
+'cara pernilongo igual dengue picou',relevant
+'mosquito fazer festa sentindo chikungunya espalhando entranha',relevant
+'retweet picada mosquito dengue aguardo sintoma funny',relevant
+'c medo pego zika saber lo oqe pé fico mexendo igual besta p nenhum mosquito picar',noise
+'fgv dapp inicia pesquisa drone combate mosquito dengue url',news
+'falar vaza mosquito dengue gostar água parada',noise
+'lendo tuíte rindo 〜aham zika viru desu yo burajiru wa kiken desu ne burajiru ni ikitakunai fufufu temer〜 daí cêil imagi',noise
+'suspeito dengue ir funny ta chegando',relevant
+'dengue coisa capiroto saber porque mosquito gostar mim funny',relevant

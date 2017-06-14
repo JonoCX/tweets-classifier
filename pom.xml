@@ -1,0 +1,55 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>uk.ac.ncl.vazadengue</groupId>
+	<artifactId>classifier</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>Classifier</name>
+	<dependencies>
+		<dependency>
+			<groupId>org.apache.opennlp</groupId>
+			<artifactId>opennlp-tools</artifactId>
+			<version>1.5.3</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>lemma</groupId>
+			<artifactId>lemport</artifactId>
+			<version>0.9.4</version>
+		</dependency>
+
+		<dependency>
+			<groupId>nz.ac.waikato.cms.weka</groupId>
+			<artifactId>weka-stable</artifactId>
+			<version>3.6.12</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.kcthota</groupId>
+			<artifactId>emoji4j</artifactId>
+			<version>5.0</version>
+		</dependency>
+
+		<!-- used to do simple http requests -->
+		<dependency>
+			<groupId>org.apache.httpcomponents</groupId>
+			<artifactId>httpclient</artifactId>
+			<version>4.3.2</version>
+		</dependency>
+
+		<!-- needed for json enc/dec -->
+		<dependency>
+			<groupId>org.json</groupId>
+			<artifactId>json</artifactId>
+			<version>20140107</version>
+		</dependency>
+
+		<!-- apache commons tools -->
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+			<version>3.1</version>
+		</dependency>
+
+	</dependencies>
+</project>

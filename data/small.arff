@@ -1,0 +1,11 @@
+@RELATION tweets
+
+@ATTRIBUTE tweet string
+@ATTRIBUTE class {news,noise,provider,receiver}
+
+
+@DATA
+'retweet ir zika pego bom prevenir :joy: :joy: url',noise
+'retweet gringo achando grande problema brasil zika viru violência ir descobrir verdade chegar aqui htt',noise
+'god bye sóq clan parado doq agua mosquito dengue',noise
+'retweet plano saúde obrigado cobrir exame diagnosticar vírus zika grupo considerado prioritário url',news
