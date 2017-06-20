@@ -4,7 +4,8 @@
 	<groupId>uk.ac.ncl.vazadengue</groupId>
 	<artifactId>classifier</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Classifier</name>
+
+    <name>Classifier</name>
 	<dependencies>
 		<dependency>
 			<groupId>org.apache.opennlp</groupId>

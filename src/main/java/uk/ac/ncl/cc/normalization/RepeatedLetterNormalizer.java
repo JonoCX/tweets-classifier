@@ -118,6 +118,7 @@ public class RepeatedLetterNormalizer implements Normalizer {
                 .setHost("api.pearson.com")
                 .setPath("/v2/dictionaries/brpe/entries")
                 .setParameter("headword", URLEncoder.encode(token, "UTF-8"))
+                .setParameter("apikey", URLEncoder.encode("y1rAsCiBdOyavAMyEpw2mLqO4YZ7v7qO", "UTF-8"))
                 .build();
         HttpGet req = new HttpGet(uri);
         CloseableHttpResponse response = httpClient.execute(req);
